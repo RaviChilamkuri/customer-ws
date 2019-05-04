@@ -27,7 +27,7 @@
 				<configuration>
 				<cloudHubDeployment>
 		            <uri>https://anypoint.mulesoft.com</uri>
-		            <muleVersion>4.1..4</muleVersion>
+		            <muleVersion>4.1.4</muleVersion>
 		            <username>Ravi042019</username>
 		            <password>Tesco1234</password>
 		            <applicationName>customers-ws-airc2</applicationName>
